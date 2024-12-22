@@ -1,5 +1,0 @@
-# Änderungen nach der installation
-
-## Damit in Dolphin das öffnen mit funktioniert SOURCE: https://bbs.archlinux.org/viewtopic.php?pid=2167377
-sudo pacman -S archlinux-xdg-menu
-XDG_MENU_PREFIX=arch- kbuildsycoca6
