@@ -1,5 +1,4 @@
-# LinuxDotfiles
-Dotfiles fuer Linux
+# dotfiles
 
 ## Inhaltsverzeichnis
 
